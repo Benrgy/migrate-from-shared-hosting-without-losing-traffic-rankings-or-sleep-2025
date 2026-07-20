@@ -7,4 +7,7 @@ Allow: /
 # Sitemap
 Sitemap: https://Benrgy.github.io/migrate-from-shared-hosting-without-losing-traffic-rankings-or-sleep-2025/sitemap.xml
 
+# AI/LLM Information
+# See: https://Benrgy.github.io/migrate-from-shared-hosting-without-losing-traffic-rankings-or-sleep-2025/llms.txt
+
 # Crawl-delay: 1
